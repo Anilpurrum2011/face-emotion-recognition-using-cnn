@@ -9,7 +9,7 @@ The **Face Emotion Recognition System** is a deep learning-based application tha
 - Deep learning model trained on facial emotion datasets
 - User-friendly interface for interaction
 - Efficient and optimized CNN model
-
+ 
 ## Tech Stack
 - **Backend:** Python, Flask
 - **Frontend:** HTML, CSS, JavaScript
